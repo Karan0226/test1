@@ -1,0 +1,85 @@
+Arrays – 15 Questions
+Find the second largest element in an array.
+Remove duplicates from a sorted array without using extra space.
+Rotate an array to the right by k steps.
+Check if an array is a palindrome.
+Find the missing number in a sequence from 1 to n.
+Find the majority element in an array (appears more than n/2 times).
+Merge two sorted arrays into one sorted array.
+Move all zeros to the end without changing order of non-zero elements.
+Find the contiguous subarray with the maximum sum (Kadane's Algorithm).
+Find all pairs in an array whose sum is equal to a given number.
+
+Find the intersection of two arrays.
+
+Find the length of the longest consecutive elements sequence.
+
+Find the minimum element in a rotated sorted array.
+
+Sort an array consisting only of 0s, 1s and 2s (Dutch National Flag Problem).
+
+Find the first missing positive integer.
+
+ Strings – 15 Questions 
+
+Reverse a string without using library functions.
+
+Check if two strings are anagrams.
+
+Find the first non-repeating character in a string.
+
+Check if a string is a palindrome.
+
+Remove all vowels from a string.
+
+Find the longest common prefix among an array of strings.
+
+Implement basic string compression using counts of repeated characters.
+
+Count and return the number of words in a given string.
+
+Find the longest substring without repeating characters.
+
+Check if one string is a rotation of another.
+
+Remove all adjacent duplicates from a string.
+
+Convert a string to an integer (implement atoi() function).
+
+Check if a string is a valid palindrome after removing at most one character.
+
+Find the longest palindromic substring.
+
+Group all anagrams together from a list of strings.
+
+ _Numbers – 15 Questions_ 
+
+Check if a number is a prime.
+
+Find the GCD (Greatest Common Divisor) of two numbers.
+
+Find the factorial of a number.
+
+Find the nth Fibonacci number (both recursive and iterative approach).
+
+Reverse the digits of an integer.
+
+Check if a number is a palindrome.
+
+Check if a number is an Armstrong number.
+
+Find the sum of digits of a number.
+
+Count the number of digits in a number.
+
+Find all divisors of a number.
+
+Check whether a number is a perfect number (sum of divisors = number).
+
+Convert a decimal number to binary without using built-in methods.
+
+Check if a number is a power of 2.
+
+Add two numbers without using + or - operators.
+
+Find the number of trailing zeroes in the factorial of a number.
